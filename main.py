@@ -16,17 +16,17 @@ from price_getter import *
 
 # example
 s = getterFactory.getPriceGetter('apple')
-price = s.get('http://www.apple.com/ae/shop/buy-iphone/iphone-7/4.7-inch-display-32gb-silver#00,12,20', 'price')
+price = s.get('http://www.apple.com/ae/shop/buy-iphone/iphone-7/4.7-inch-display-32gb-silver#00,12,20')
 
 print price
 
 s = getterFactory.getPriceGetter('souq')
-price = s.get('http://uae.souq.com/ae-en/apple-iphone-7-with-facetime-32gb-4g-lte-silver-11526713/i/', 'price')
+price = s.get('http://uae.souq.com/ae-en/apple-iphone-7-with-facetime-32gb-4g-lte-silver-11526713/i/')
 
 print price
 
 s = getterFactory.getPriceGetter('jumbo')
-price = s.get('http://www.jumbo.ae/gaming-pcs/hp-omen-17-w000ne-i7-16gb-2tb-17/p-0441617-29758057822-cat.html#variant_id=0441617-29758057822', 'price')
+price = s.get('http://www.jumbo.ae/gaming-pcs/hp-omen-17-w000ne-i7-16gb-2tb-17/p-0441617-29758057822-cat.html#variant_id=0441617-29758057822')
 
 print price
 
