@@ -1,12 +1,12 @@
 # web-price-extraction
 web-price-extraction extracts the prices from several e-commerce sites in the middle east.
 Available sites are:
-1- Souq.com 
-2- JadoPado
-3- Apple UAE Store
-4- Sharafd
-5- Jumbo Electronics
-6- AlShop 
+* Souq.com 
+* JadoPado
+* Apple UAE Store
+* Sharafd
+* Jumbo Electronics
+* AlShop 
 
 
 Here is how to use the price_getter: 
