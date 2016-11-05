@@ -1,5 +1,5 @@
-# web-price-extraction
-web-price-extraction extracts the prices from several e-commerce sites in the middle east.
+# price-extraction
+price-extraction extracts the prices from several e-commerce sites in the middle east.
 Available sites are:
 * Apple UAE Store
 * Souq.com 
