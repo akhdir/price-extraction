@@ -8,8 +8,11 @@ Available sites are:
 * Jumbo Electronics
 * AlShop 
 
+More to come...
 
-Here is how to use the price_getter: 
+# Price Getter Class
+price getter class will get you the price of any product list on one of the above site, by just providing the link to that product.
+
 
 ```Python 
 from price_getter import *
