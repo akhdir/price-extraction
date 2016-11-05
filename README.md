@@ -11,7 +11,9 @@ Available sites are:
 
 Here is how to use the price_getter: 
 
-```Python from price_getter import *```
+```Python 
+from price_getter import *
+```
 
 # example Apple
 ```Python
