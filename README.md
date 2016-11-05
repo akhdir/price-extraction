@@ -11,7 +11,7 @@ Available sites are:
 More to come...
 
 # Price Getter Class
-price getter class will get you the price of any product list on one of the above site, by just providing the link to that product.
+price getter class will get you the price of any product listed on one of the above site, by just providing the link to that product.
 
 
 ```Python 
